@@ -22,4 +22,6 @@ giuseppelino@gmail.com
 Improvements comming according to knowledge gain 
 
 ## License information
-Responsive, Bootstrap Mobile First Web Template
+Responsive, Bootstrap Mobile First Web Template. You can copy and use the code but please, add a reference in your website to:
+
+Copyright | All Rights Reserved  -- Template by <a href="http://webThemez.com">WebThemez.com</a>
